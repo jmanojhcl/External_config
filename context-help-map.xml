@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="ucv_version_welcome" path="user/ucv_version_welcome.html"/>
+   <appContext helpID="c_release_info" path="user/topics/c_release_info.html"/>
+   <appContext helpID="releaseinfo_whatsnew"
+               path="user/topics/releaseinfo_whatsnew.html"/>
+   <appContext helpID="releaseinfo_upgradenotes"
+               path="user/topics/releaseinfo_upgradenotes.html"/>
+   <appContext helpID="releaseinfo_gettingstarted"
+               path="user/topics/releaseinfo_gettingstarted.html"/>
+   <appContext helpID="releaseinfo_systemrequirements"
+               path="user/topics/releaseinfo_systemrequirements.html"/>
+   <appContext helpID="c_overview_se" path="user/topics/c_overview_se.html"/>
+   <appContext helpID="c_overview_editions"
+               path="user/topics/c_overview_editions.html"/>
+   <appContext helpID="cr_release_ov" path="user/topics/c_overview_release.html"/>
+   <appContext helpID="c_overview_se_homepage"
+               path="user/topics/c_overview_se_homepage.html"/>
+   <appContext helpID="notices-hcl" path="user/topics/notices-hcl.html"/>
+   <appContext helpID="ucv_gdpr" path="user/topics/ucv_gdpr.html"/>
+   <appContext helpID="c_node_tutorials" path="tutorial/topics/c_node_tutorials.html"/>
+   <appContext helpID="quickstart_abstract"
+               path="tutorial/topics/quickstart_abstract.html"/>
+   <appContext helpID="quickstart_intro" path="tutorial/topics/quickstart_intro.html"/>
+   <appContext helpID="quickstart_configure"
+               path="tutorial/topics/quickstart_configure.html"/>
+   <appContext helpID="quickstart_createVSM"
+               path="tutorial/topics/quickstart_createVSM.html"/>
+   <appContext helpID="quickstart_modifyVSM"
+               path="tutorial/topics/quickstart_modifyVSM.html"/>
+   <appContext helpID="quickstart_integrateVSM"
+               path="tutorial/topics/quickstart_integrateVSM.html"/>
+   <appContext helpID="quickstart_dqlVSM"
+               path="tutorial/topics/quickstart_dqlVSM.html"/>
+   <appContext helpID="quickstart_dqlVSM"
+               path="tutorial/topics/quickstart_dql_detail.html"/>
+   <appContext helpID="quickstart_summary"
+               path="tutorial/topics/quickstart_summary.html"/>
+   <appContext helpID="git_abstract" path="tutorial/topics/git_abstract.html"/>
+   <appContext helpID="git_intro" path="tutorial/topics/git_intro.html"/>
+   <appContext helpID="git_configure" path="tutorial/topics/git_configure.html"/>
+   <appContext helpID="git_createVSM" path="tutorial/topics/git_createVSM.html"/>
+   <appContext helpID="git_jira" path="tutorial/topics/git_jira.html"/>
+   <appContext helpID="git_integrate" path="tutorial/topics/git_integrate.html"/>
+   <appContext helpID="git_dqlVSM" path="tutorial/topics/git_dqlVSM.html"/>
+   <appContext helpID="git_summary" path="tutorial/topics/git_summary.html"/>
+   <appContext helpID="custMetrics_abstract"
+               path="tutorial/topics/custMetrics_abstract.html"/>
+   <appContext helpID="custMetrics_intro"
+               path="tutorial/topics/custMetrics_intro.html"/>
+   <appContext helpID="custMetrics_configure"
+               path="tutorial/topics/custMetrics_configure.html"/>
+   <appContext helpID="custMetrics_defineMetric"
+               path="tutorial/topics/custMetrics_defineMetric.html"/>
+   <appContext helpID="custMetrics_defineMetricUpload"
+               path="tutorial/topics/custMetrics_defineMetricUpload.html"/>
+   <appContext helpID="custMetrics_createMetric"
+               path="tutorial/topics/custMetrics_createMetric.html"/>
+   <appContext helpID="custMetrics_createMetricUpload"
+               path="tutorial/topics/custMetrics_createMetricUpload.html"/>
+   <appContext helpID="custMetrics_summary"
+               path="tutorial/topics/custMetrics_summary.html"/>
+   <appContext helpID="c_node_installation"
+               path="user/topics/c_node_installation.html"/>
+   <appContext helpID="t_install_se_docker"
+               path="user/topics/t_install_se_docker.html"/>
+   <appContext helpID="c_install_kube" path="user/topics/c_install_kube.html"/>
+   <appContext helpID="reference_n3z_y4n_pkb"
+               path="user/topics/r_cluster-level_perms_faqs.html"/>
+   <appContext helpID="t_install_openshift_helm"
+               path="user/topics/t_install_openShift_helm.html"/>
+   <appContext helpID="reference_n3z_y4n_pkb"
+               path="user/topics/r_cluster-level_perms_faqs.html"/>
+   <appContext helpID="t_install_se_remove_ucv"
+               path="user/topics/t_install_se_remove_ucv.html"/>
+   <appContext helpID="t_install_se_docker"
+               path="user/topics/t_install_plugin_air-gapped_network.html"/>
+   <appContext helpID="t_upgrade_trial" path="user/topics/t_upgrade_trial.html"/>
+   <appContext helpID="t_upgrade_se_docker"
+               path="user/topics/t_upgrade_se_docker.html"/>
+   <appContext helpID="t_upgrade_ICP" path="user/topics/t_upgrade_ICP.html"/>
+   <appContext helpID="t_upgrade_openshift_helm"
+               path="user/topics/t_upgrade_openshift_helm.html"/>
+   <appContext helpID="c_node_migrate" path="user/topics/c_node_migrate.html"/>
+   <appContext helpID="t_upgrade_se_docker"
+               path="user/topics/t_migrate_docker_to_kubernetes.html"/>
+   <appContext helpID="c_migrate_openshift_template_to_helm"
+               path="user/topics/c_migrate_openshift_template_to_helm.html"/>
+   <appContext helpID="c_node_admin" path="user/topics/c_node_admin.html"/>
+   <appContext helpID="t_admin_emailServer"
+               path="user/topics/t_admin_emailServer.html"/>
+   <appContext helpID="t_admin_calendar" path="user/topics/t_admin_calendar.html"/>
+   <appContext helpID="c_node_security" path="user/topics/c_node_security.html"/>
+   <appContext helpID="c_admin_roles" path="user/topics/c_admin_roles.html"/>
+   <appContext helpID="c_node_DOTS" path="user/topics/c_admin_user_auth_mgmt.html"/>
+   <appContext helpID="t_admin_authentication"
+               path="user/topics/t_admin_usermanage.html"/>
+   <appContext helpID="t_admin_LDAP" path="user/topics/t_admin_LDAP.html"/>
+   <appContext helpID="t_admin_LDAP" path="user/topics/t_admin_LDAP_UCD.html"/>
+   <appContext helpID="security_config_SSO_realm"
+               path="user/topics/security_config_SSO_realm.html"/>
+   <appContext helpID="cr_security_groups" path="user/topics/cr_security_groups.html"/>
+   <appContext helpID="cr_security_teams" path="user/topics/cr_security_teams.html"/>
+   <appContext helpID="c_node_DOTS" path="user/topics/c_admin_password_mgmt.html"/>
+   <appContext helpID="t_admin_password" path="user/topics/t_admin_password.html"/>
+   <appContext helpID="t_admin_password"
+               path="user/topics/t_admin_password_kubernetes.html"/>
+   <appContext helpID="t_admin_password"
+               path="user/topics/t_admin_password_openshift.html"/>
+   <appContext helpID="t_admin_APIkey" path="user/topics/t_admin_APIkey.html"/>
+   <appContext helpID="licenseManageHCL" path="user/topics/licenseManageHCL.html"/>
+   <appContext helpID="license_scenariosHCL"
+               path="user/topics/license_scenariosHCL.html"/>
+   <appContext helpID="t_upgrade_trial" path="user/topics/t_upgrade_trial.html"/>
+   <appContext helpID="t_admin_logLevels" path="user/topics/t_admin_logLevels.html"/>
+   <appContext helpID="c_node_admin_guide" path="user/topics/c_node_admin_guide.html"/>
+   <appContext helpID="c_installing_accelerate"
+               path="user/topics/c_installing_accelerate.html"/>
+   <appContext helpID="concept_lck_lrp_swb"
+               path="user/topics/c_installation_overview.html"/>
+   <appContext helpID="Prereqisite_knowledge-Copy-Copy"
+               path="user/topics/c_docker_kube_openshift_comp.html"/>
+   <appContext helpID="untitled5"
+               path="user/topics/c_Overview_microservicesandcontainerization.dita.html"/>
+   <appContext helpID="Installing_HCL_ACcelerate_on_Docker_Compose"
+               path="user/topics/c_install_docker.html"/>
+   <appContext helpID="t_install_on_docker"
+               path="user/topics/t_install_on_docker.html"/>
+   <appContext helpID="t_install_of_docker"
+               path="user/topics/t_install_of_docker.html"/>
+   <appContext helpID="c_admin_key" path="user/topics/c_admin_key.html"/>
+   <appContext helpID="c_node_DOTS" path="user/topics/c_node_DOTS.html"/>
+   <appContext helpID="dots_jsonCreate" path="user/topics/dots_jsonCreate.html"/>
+   <appContext helpID="dots_jsonCreate" path="user/topics/t_setting_up_stage_vs.html"/>
+   <appContext helpID="c_vsm_workflow" path="user/topics/vsm_workflow.html"/>
+   <appContext helpID="t_json_code_editor" path="user/topics/t_json_code_editor.html"/>
+   <appContext helpID="t_json_tree_editor" path="user/topics/t_json_tree_editor.html"/>
+   <appContext helpID="t_vsm_workflow" path="user/topics/t_vsm_workflowIntegrate.html"/>
+   <appContext helpID="c_vsm_workflow_integrate"
+               path="user/topics/vsm_workflowIntegrate.html"/>
+   <appContext helpID="c_vsm_links" path="user/topics/c_vsm_links.html"/>
+   <appContext helpID="dots_jsonCreate"
+               path="user/topics/t_viewing_value_streams.html"/>
+   <appContext helpID="c_metrics" path="user/topics/c_metrics.html"/>
+   <appContext helpID="vsm_metricsCustom" path="user/topics/vsm_metricsCustom.html"/>
+   <appContext helpID="vsm_metricsBar" path="user/topics/vsm_metricsBar.html"/>
+   <appContext helpID="c_bottleneck_detect"
+               path="user/topics/c_bottleneck_detect.html"/>
+   <appContext helpID="reference_n3z_y4n_pkb" path="user/topics/r_metrics_faqs.html"/>
+   <appContext helpID="c_vsm_dots" path="user/topics/c_vsm_dots.html"/>
+   <appContext helpID="vsm_swim" path="user/topics/vsm_swim.html"/>
+   <appContext helpID="dots_query" path="user/topics/dots_query.html"/>
+   <appContext helpID="concept_y12_fmt_5xb"
+               path="user/topics/external_yaml_configuration.html"/>
+   <appContext helpID="creating_yaml_configuration"
+               path="user/topics/creating_yaml_configuration.html"/>
+   <appContext helpID="importing_yaml_configuration"
+               path="user/topics/importing_yaml_configuration.html"/>
+   <appContext helpID="untitled1" path="user/topics/t_import_yaml_github.html"/>
+   <appContext helpID="t_import_yaml_UI" path="user/topics/t_import_yaml_UI.html"/>
+   <appContext helpID="Applying_yaml_configuration"
+               path="user/topics/Applying_yaml_configuration.html"/>
+   <appContext helpID="cr_pipelines_ov" path="user/topics/cr_pipelines_ov.html"/>
+   <appContext helpID="cr_pipeline_manage" path="user/topics/cr_pipeline_manage.html"/>
+   <appContext helpID="cr_pipeline_manage"
+               path="user/topics/t_api_driven_pipeline.html"/>
+   <appContext helpID="cr_pipeline_gates" path="user/topics/cr_pipeline_gates.html"/>
+   <appContext helpID="cr_pipeline_run" path="user/topics/cr_pipeline_run.html"/>
+   <appContext helpID="open_pipeline_deployment"
+               path="user/topics/open_pipeline_deployment.html"/>
+   <appContext helpID="c_node_portfolio" path="user/topics/c_node_portfolio.html"/>
+   <appContext helpID="c_node_tutorials" path="user/topics/c_node_dashboard.html"/>
+   <appContext helpID="c_node_portfolioDash"
+               path="user/topics/c_node_portfolioDash.html"/>
+   <appContext helpID="t_port_dashCreate" path="user/topics/port_dashboardCreate.html"/>
+   <appContext helpID="t_port_dashManage" path="user/topics/port_dashboardManage.html"/>
+   <appContext helpID="port_interpretdata" path="user/topics/port_interpretdata.html"/>
+   <appContext helpID="c_bottleneck_detect"
+               path="user/topics/c_lead_cycle_time_drilldown_tables.html"/>
+   <appContext helpID="c_node_tutorials" path="user/topics/c_node_reports.html"/>
+   <appContext helpID="c_running_insights_report"
+               path="user/topics/c_running_insights_report.html"/>
+   <appContext helpID="c_reports_appscanenterprise"
+               path="user/topics/c_reports_appscanenterprise.html"/>
+   <appContext helpID="c_reports_release_readiness"
+               path="user/topics/c_reports_release_readiness.html"/>
+   <appContext helpID="c_reports_security" path="user/topics/c_reports_security.html"/>
+   <appContext helpID="c_reports_state-of-sprint"
+               path="user/topics/c_reports_state-of-sprint.html"/>
+   <appContext helpID="c_node_releases" path="crelease/topics/c_node_releases.html"/>
+   <appContext helpID="cr_deployRun_ov"
+               path="crelease/topics/cr_release_managedetails.html"/>
+   <appContext helpID="cr_release_manage"
+               path="crelease/topics/cr_release_manage.html"/>
+   <appContext helpID="cr_release_create"
+               path="crelease/topics/cr_release_create.html"/>
+   <appContext helpID="cr_release_archive"
+               path="crelease/topics/cr_release_archive.html"/>
+   <appContext helpID="cr_event_ov" path="crelease/topics/cr_events_ov.html"/>
+   <appContext helpID="cr_restore_archive"
+               path="crelease/topics/cr_restore_archive.html"/>
+   <appContext helpID="cr_deployPlan_ov" path="crelease/topics/cr_deployPlan_ov.html"/>
+   <appContext helpID="cr_deployplan_manage"
+               path="crelease/topics/cr_deployplan_manage.html"/>
+   <appContext helpID="cr_deployPlan_create"
+               path="crelease/topics/cr_deployPlan_create.html"/>
+   <appContext helpID="cr_deployPlan_importTasks"
+               path="crelease/topics/cr_deployPlan_importTasks.html"/>
+   <appContext helpID="cr_deployPlan_promote"
+               path="crelease/topics/cr_deployPlan_promote.html"/>
+   <appContext helpID="cr_deployPlan_template"
+               path="crelease/topics/cr_deployPlan_template.html"/>
+   <appContext helpID="cr_deployPlan_archive"
+               path="crelease/topics/cr_deployPlan_archive.html"/>
+   <appContext helpID="cr_deployRun_ov" path="crelease/topics/cr_deployRun_ov.html"/>
+   <appContext helpID="cr_deployRun_manual"
+               path="crelease/topics/cr_deployRun_manual.html"/>
+   <appContext helpID="cr_deployRun_taskResolve"
+               path="crelease/topics/cr_deployRun_taskResolve.html"/>
+   <appContext helpID="cr_deployPlan_importTasks"
+               path="crelease/topics/cr_deployPlan_importTasks.html"/>
+   <appContext helpID="cr_deployRun_scheduled"
+               path="crelease/topics/cr_deployRun_scheduled.html"/>
+   <appContext helpID="cr_tasks_ov" path="crelease/topics/cr_task_ov.html"/>
+   <appContext helpID="cr_task_manage" path="crelease/topics/cr_task_manage.html"/>
+   <appContext helpID="cr_task_create" path="crelease/topics/cr_task_create.html"/>
+   <appContext helpID="cr_task_depend" path="crelease/topics/cr_task_depend.html"/>
+   <appContext helpID="cr_task_groups" path="crelease/topics/cr_task_groups.html"/>
+   <appContext helpID="cr_task_groups_manage"
+               path="crelease/topics/cr_task_groups_manage.html"/>
+   <appContext helpID="cr_task_tags" path="crelease/topics/cr_task_tags.html"/>
+   <appContext helpID="cr_taskType_another"
+               path="crelease/topics/cr_taskType_another.html"/>
+   <appContext helpID="cr_taskType_another"
+               path="crelease/topics/cr_taskType_another_ex.html"/>
+   <appContext helpID="cr_taskType_delay"
+               path="crelease/topics/cr_taskType_delay.html"/>
+   <appContext helpID="cr_taskType_email"
+               path="crelease/topics/cr_taskType_email.html"/>
+   <appContext helpID="cr_taskType_header"
+               path="crelease/topics/cr_taskType_header.html"/>
+   <appContext helpID="cr_taskType_Jenkins"
+               path="crelease/topics/cr_taskType_Jenkins.html"/>
+   <appContext helpID="cr_taskType_manual"
+               path="crelease/topics/cr_taskType_manual.html"/>
+   <appContext helpID="cr_taskType_header"
+               path="crelease/topics/cr_taskType_shell.html"/>
+   <appContext helpID="cr_taskType_ServiceNow"
+               path="crelease/topics/cr_taskType_serviceNow.html"/>
+   <appContext helpID="cr_taskType_UCD" path="crelease/topics/cr_taskType_UCD.html"/>
+   <appContext helpID="cr_taskType_Ansible"
+               path="crelease/topics/cr_taskType_ansible.html"/>
+   <appContext helpID="cr_taskType_waitForApproval"
+               path="crelease/topics/cr_taskType_waitForApproval.html"/>
+   <appContext helpID="cr_properties_ov" path="crelease/topics/cr_properties_ov.html"/>
+   <appContext helpID="cr_properties_create"
+               path="crelease/topics/cr_properties_create.html"/>
+   <appContext helpID="cr_properties_ref"
+               path="crelease/topics/cr_properties_ref.html"/>
+   <appContext helpID="c_node_extend" path="user/topics/c_node_extend.html"/>
+   <appContext helpID="c_node_plugins" path="user/topics/c_node_plugins.html"/>
+   <appContext helpID="t_pluginsManage" path="user/topics/t_plugins_safe_install.html"/>
+   <appContext helpID="pluginManage" path="user/topics/pluginManage.html"/>
+   <appContext helpID="t_pluginsExample" path="user/topics/t_pluginsExample.html"/>
+   <appContext helpID="t_integrationsManage"
+               path="user/topics/t_integrationsManage.html"/>
+   <appContext helpID="t_pluginsManage"
+               path="user/topics/t_plugins_initial_sync_date.html"/>
+   <appContext helpID="t_delete_integration"
+               path="user/topics/t_delete_Integration.html"/>
+   <appContext helpID="c_pluginsSDK" path="user/topics/c_pluginsSDK.html"/>
+   <appContext helpID="c_node_nativeIntegrations"
+               path="user/topics/c_node_nativeIntegrations.html"/>
+   <appContext helpID="t_integration_UCD" path="user/topics/t_integration_UCD.html"/>
+   <appContext helpID="t_integration_Jenkins"
+               path="user/topics/t_integration_Jenkins.html"/>
+   <appContext helpID="c_integrations_servicenow"
+               path="user/topics/c_integration_servicenow.html"/>
+   <appContext helpID="rest_cli_agentcli_teams_put"
+               path="user/topics/r_restapi_uploadbuild.html"/>
+   <appContext helpID="rest_cli_agentcli_teams_put"
+               path="user/topics/r_restapi_uploaddeploy.html"/>
+   <appContext helpID="c_node_howto" path="user/topics/c_node_howto.html"/>
+   <appContext helpID="t_ui_access" path="user/topics/t_ui_access.html"/>
+   <appContext helpID="t_report_create" path="user/topics/t_report_create.html"/>
+   <appContext helpID="t_report_share" path="user/topics/t_reports_share.html"/>
+   <appContext helpID="c_node_troubleshoot"
+               path="user/topics/c_node_troubleshoot.html"/>
+   <appContext helpID="c_troubleshoot_contactsupport"
+               path="user/topics/c_troubleshoot_contactsupport.html"/>
+   <appContext helpID="t_troubleshoot_logfiles"
+               path="user/topics/t_troubleshoot_logfiles.html"/>
+   <appContext helpID="c_troubleshoot_problemtypes"
+               path="user/topics/c_troubleshoot_problemtypes.html"/>
+   <appContext helpID="c_glossary.dita" path="user/topics/c_glossary.html"/>
+</map>
