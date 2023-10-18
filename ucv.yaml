@@ -6,6 +6,7 @@ integrations:
     env-mapping:
       dev: DEV
       qa: QA
+      intermediate: IM
       integration: UAT
       prod: PROD
   configs:
@@ -14,3 +15,4 @@ integrations:
     token: a62854ba-f9a6-4b69-a897-ae4a42a46929
     ucdProxyConfig: null
     ucdUrl: https://10.134.119.198:8443/
+    
